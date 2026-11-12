@@ -1,6 +1,6 @@
 # Julian Petric
 
-Full-stack software engineer based in Santa Fe, Argentina.
+Full-stack software engineer based in Paraná, Entre Ríos, Argentina.
 
 I build web and mobile products end to end, mostly in TypeScript: React and Angular on the
 frontend, React Native for mobile, Node.js and ASP.NET Core on the backend. My day-to-day
