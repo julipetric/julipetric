@@ -46,6 +46,7 @@ marketplace for chef-hosted dining experiences, where I lead engineering end to 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [pitch-shifter-demo](https://github.com/julipetric/pitch-shifter-demo) | Real-time pitch and tempo shifting: a .NET API streams processed audio while an Angular UI compares the original and processed waveforms. | Angular · ASP.NET Core · SoundTouch · Web Audio API · Docker |
+| [festival-fever](https://github.com/julipetric/festival-fever) | My thesis: an event ticketing app with attendee, organizer and seller modes — wallet and checkout, QR tickets scanned at the door, and event, ticket and product management. 20 Detox end-to-end tests. | React Native (Expo) · Firebase · Redux Toolkit · Detox |
 | [opencode-packman](https://github.com/julipetric/opencode-packman) | Plugin + skill that installs, enables and disables named skill packs for the OpenCode coding agent. | TypeScript · Bun · OpenCode plugin API |
 | [music-portfolio](https://github.com/julipetric/music-portfolio) | My audio-mixing portfolio ([live](https://julipetric.github.io/music-portfolio/)), with a custom A/B/C player to compare raw, reference and final mixes. | Hugo · JavaScript · GitHub Actions · GitHub Pages |
 
@@ -62,8 +63,8 @@ marketplace for chef-hosted dining experiences, where I lead engineering end to 
 ## Background
 
 - **Information Systems Engineering**, Universidad Tecnológica Nacional (UTN), Santa Fe.
-  Thesis: an event planning and ticketing app in React Native (Expo, Firebase) with Detox
-  end-to-end tests.
+  Thesis: [Festival Fever](https://github.com/julipetric/festival-fever), an event planning and
+  ticketing app in React Native (Expo, Firebase) with Detox end-to-end tests.
 - **Certifications:** Google Gen AI Intensive (Kaggle, 2025) · CS50's Introduction to AI
   with Python (HarvardX, 2024).
 - **Languages:** Spanish (native) · English (C1, Cambridge CAE) · Portuguese (basic).
